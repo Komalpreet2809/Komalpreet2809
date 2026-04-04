@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="komalpreet_neon_name_transparent.png" width="100%" />
+  <img src="komalpreet_name_header.png" width="100%" />
 </p>
+
 
 
 
