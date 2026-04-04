@@ -1,18 +1,11 @@
-<div align="center">
-<pre>
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░█▀█▀▄▄▀█░▄▀▄░█░▄▄▀█░██▀▄▄▀█░▄▄▀█░▄▄█░▄▄█▄░▄███░█▀█░▄▄▀█░██░█░▄▄▀
-█░▄▀█░██░█░█▄█░█░▀▀░█░██░▀▀░█░▀▀▄█░▄▄█░▄▄██░████░▄▀█░▀▀░█░██░█░▀▀▄
-█▄█▄██▄▄██▄███▄█▄██▄█▄▄█░████▄█▄▄█▄▄▄█▄▄▄██▄████▄█▄█▄██▄██▄▄▄█▄█▄▄
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-</pre>
-</div>
+<p align="center">
+  <img src="namebanner.png" width="800" />
+</p>
 
 ---
 
 ### Hi!!
-
-**Data Scientist & ML/AI Engineer**. Specializing in advanced Data Science, training Machine Learning models, and architecting scalable Artificial Intelligence systems.
+I work with data, teach machines how to learn, and occasionally argue with models that refuse to converge. Most days, I’m building things at the intersection of **AI and Data Science** — from models that can see and reason to systems that try to make sense of messy, real-world data.
 
 <p align="left">
   <a href="https://komalpreet.me/resume.pdf" target="blank">📄 <b>View My Resume</b></a>
