@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="komala.png" width="800" />
+  <img src="Komala.png" width="800" />
 </p>
 
 ---
