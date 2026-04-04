@@ -8,31 +8,11 @@
 </pre>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;GenAI+Developer;Data+Scientist;Deep+Learning+Explorer" alt="Typing SVG" />
-</div>
-
 ---
 
 ### Hi!!
 
-I work with data, teach machines how to learn, and occasionally argue with models that refuse to converge. Most days, I’m building things at the intersection of **AI and Data Science** — from models that can see and reason to systems that try to make sense of messy, real-world data.
+**Data Scientist & ML/AI Engineer**. Specializing in advanced Data Science, training Machine Learning models, and architecting scalable Artificial Intelligence systems.
 
 <p align="left">
   <a href="https://komalpreet.me/resume.pdf" target="blank">📄 <b>View My Resume</b></a>
