@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="komalpreet_name_header.png" width="100%" />
+  <img src="namebanner.png" width="100%" />
 </p>
+
 
 
 
