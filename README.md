@@ -70,6 +70,8 @@ I work with data, teach machines how to learn, and occasionally argue with model
 
 ### Let's Connect
 
+**Open to collaborations and hiring. Let's build something great!**
+
 <p align="center">
   <a href="https://komalpreet.me" target="blank"><img src="https://img.shields.io/badge/Website-0D3B31?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/komalpreetkaur-k/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0D3B31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
