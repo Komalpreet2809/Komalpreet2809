@@ -34,8 +34,8 @@ I work with data, teach machines how to learn, and occasionally argue with model
 <p align="center">
   <a href="https://komalpreet.me" target="blank"><img src="https://img.shields.io/badge/Website-0D3B31?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/komalpreetkaur-k/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0D3B31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/KoBuilds2811" target="blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://leetcode.com/u/Sohal2811/" target="blank"><img src="https://img.shields.io/badge/LeetCode-0D3B31?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://x.com/komalpreet2809" target="blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://leetcode.com/u/komalpreet2809" target="blank"><img src="https://img.shields.io/badge/LeetCode-0D3B31?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="mailto:kaurkomalpreetsohal@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0D3B31?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
