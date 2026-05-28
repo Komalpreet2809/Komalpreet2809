@@ -9,19 +9,15 @@
   Building multimodal systems for speaker extraction, deepfake forensics, and cognitive reasoning architectures.
 </p>
 
-<p align="left">
-  <a href="https://komalpreet.me/resume.pdf" target="blank">📄 <b>View My Resume</b></a>
-</p>
-
 ---
 
 ### Tech Stack & Skills
 
 | **Programming Languages** | **Machine Learning & AI** |
 | :--- | :--- |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,bash" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" /></a> |
+| <img src="https://skillicons.dev/icons?i=python,ts,bash" /> | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" /> |
 | **Generative AI & RAG** | **Full-Stack & Systems** |
-| <img src="https://img.shields.io/badge/LangChain-FF007F?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-232F3E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HuggingFace-F9D74C?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/ChromaDB-008080?style=for-the-badge&logo=chroma&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker,githubactions,linux" /></a> |
+| <img src="https://img.shields.io/badge/LangChain-FF007F?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-232F3E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HuggingFace-F9D74C?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/ChromaDB-008080?style=for-the-badge&logo=chroma&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker,githubactions,linux" /> |
 
 ---
 
@@ -33,6 +29,5 @@
   <a href="https://komalpreet.me" target="blank"><img src="https://img.shields.io/badge/Website-0D3B31?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/komalpreetkaur-k/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0D3B31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/komalpreet2809" target="blank"><img src="https://img.shields.io/badge/X-0D3B31?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://leetcode.com/u/komalpreet2809" target="blank"><img src="https://img.shields.io/badge/LeetCode-0D3B31?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="mailto:kaurkomalpreetsohal@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0D3B31?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
