@@ -21,9 +21,11 @@ I am an AI/ML Engineer who builds end-to-end multimodal systems. Instead of just
 
 | **Programming Languages** | **Machine Learning & AI** |
 | :--- | :--- |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,cpp,bash,ts" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,cpp,bash,ts" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /></a><br><img src="https://img.shields.io/badge/Speech_Processing-333333?style=for-the-badge" /> |
 | **Generative AI & RAG** | **MLOps & Systems** |
-| <img src="https://img.shields.io/badge/LangChain-FF007F?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-F9D74C?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/VectorDB-008080?style=for-the-badge&logo=chroma&logoColor=white" /> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,fastapi" /></a> |
+| <img src="https://img.shields.io/badge/LangChain-FF007F?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-F9D74C?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-008080?style=for-the-badge&logo=chroma&logoColor=white" /> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,fastapi" /></a> |
+| **Full-Stack** | |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" /></a> | |
 
 ---
 
