@@ -17,7 +17,7 @@
 | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=python,ts,bash" /> | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" /> |
 | **Generative AI & RAG** | **Full-Stack & Systems** |
-| <img src="https://img.shields.io/badge/LangChain-FF007F?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-232F3E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HuggingFace-F9D74C?style=for-the-badge&logo=huggingface&logoColor=black" /><br><img src="https://img.shields.io/badge/ChromaDB-008080?style=for-the-badge&logo=chroma&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker,githubactions,linux" /> |
+| <img src="https://img.shields.io/badge/LangChain-FF007F?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-232F3E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HuggingFace-F9D74C?style=for-the-badge&logo=huggingface&logoColor=black" /><br><img src="https://img.shields.io/badge/ChromaDB-008080?style=for-the-badge&logo=chroma&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker,githubactions,linux&perline=3" /> |
 
 ---
 
