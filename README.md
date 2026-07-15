@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI/ML Engineer</b><br>
-  Building multimodal systems for speaker extraction, deepfake forensics, and cognitive reasoning architectures.
+  Building agentic AI, LLM inference systems, and multimodal models — speech, vision, memory.
 </p>
 
 ---
