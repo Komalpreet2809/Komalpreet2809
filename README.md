@@ -25,7 +25,7 @@
 
 ### Let's Connect
 
-**Open to collaborations and hiring.**
+**Open to collaborations and new opportunities.**
 
 <p align="center">
   <a href="https://komalpreet.me" target="blank"><img src="https://img.shields.io/badge/Website-0D3B31?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
